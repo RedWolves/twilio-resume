@@ -16,7 +16,7 @@ Once you clone or unzip your files you'll need to set up your variables.php file
 
 ## Testing on localhost
 
-To be able to call your number and be able to test locally you need to set up ngrok to tunnel into your machine and make your localhost site available externally.
+To be able to call your number and be able to test locally you need to set up [ngrok](https://ngrok.com/) to tunnel into your machine and make your localhost site available externally.
 
 ## Have the app call you
 
